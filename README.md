@@ -30,5 +30,3 @@ The computed weights are stored in `weights.json`.
 ## Monitoring the portfolio in TradingView
 
 We send `directions.json` and `weights.json` our TradingView account via a pre-configured webhook. On TradingView, we use PineScript to parse the data and visualize the portfolio returns over time. We also generate buy and sell signals based on the predicted directions. 
-
-<img width="894" height="286" alt="Trading View" src="https://github.com/user-attachments/assets/67be7e01-b9e1-44ba-9591-a9808bb2a4c4" />
