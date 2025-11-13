@@ -1,0 +1,782 @@
+[
+    {
+        "date": "2025-09-10",
+        "annual_return_%": 12.19,
+        "annual_volatility_%": 16.04,
+        "weights": {
+            "NVDA": 10.73,
+            "GOOG": -9.12,
+            "AMZN": 17.01,
+            "AAPL": -15.85,
+            "MSFT": 32.23,
+            "SPOT": 34.36,
+            "TSLA": 36.51,
+            "JPM": -4.85,
+            "GS": 5.08,
+            "LMT": -6.08
+        }
+    },
+    {
+        "date": "2025-09-11",
+        "annual_return_%": 12.22,
+        "annual_volatility_%": 16.04,
+        "weights": {
+            "NVDA": 10.59,
+            "GOOG": -8.84,
+            "AMZN": 16.79,
+            "AAPL": -15.96,
+            "MSFT": 32.3,
+            "SPOT": 34.37,
+            "TSLA": 36.48,
+            "JPM": -4.74,
+            "GS": 5.13,
+            "LMT": -6.14
+        }
+    },
+    {
+        "date": "2025-09-12",
+        "annual_return_%": 14.31,
+        "annual_volatility_%": 16.02,
+        "weights": {
+            "NVDA": 10.59,
+            "GOOG": -9.08,
+            "AMZN": 17.06,
+            "AAPL": -15.19,
+            "MSFT": 33.09,
+            "SPOT": 34.24,
+            "TSLA": 35.41,
+            "JPM": -4.67,
+            "GS": 5.09,
+            "LMT": -6.54
+        }
+    },
+    {
+        "date": "2025-09-15",
+        "annual_return_%": 14.93,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 10.68,
+            "GOOG": -8.99,
+            "AMZN": 16.52,
+            "AAPL": -15.32,
+            "MSFT": 33.28,
+            "SPOT": 34.28,
+            "TSLA": 35.4,
+            "JPM": -4.36,
+            "GS": 5.12,
+            "LMT": -6.61
+        }
+    },
+    {
+        "date": "2025-09-16",
+        "annual_return_%": 14.1,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 10.68,
+            "GOOG": -8.79,
+            "AMZN": 16.53,
+            "AAPL": -15.34,
+            "MSFT": 33.22,
+            "SPOT": 34.33,
+            "TSLA": 35.22,
+            "JPM": -4.4,
+            "GS": 5.12,
+            "LMT": -6.57
+        }
+    },
+    {
+        "date": "2025-09-17",
+        "annual_return_%": 14.1,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 10.66,
+            "GOOG": -8.78,
+            "AMZN": 16.58,
+            "AAPL": -15.28,
+            "MSFT": 33.11,
+            "SPOT": 34.34,
+            "TSLA": 35.22,
+            "JPM": -4.39,
+            "GS": 5.11,
+            "LMT": -6.58
+        }
+    },
+    {
+        "date": "2025-09-18",
+        "annual_return_%": 13.7,
+        "annual_volatility_%": 16.04,
+        "weights": {
+            "NVDA": 10.38,
+            "GOOG": -8.83,
+            "AMZN": 16.66,
+            "AAPL": -15.21,
+            "MSFT": 33.3,
+            "SPOT": 34.32,
+            "TSLA": 35.4,
+            "JPM": -4.51,
+            "GS": 5.08,
+            "LMT": -6.58
+        }
+    },
+    {
+        "date": "2025-09-19",
+        "annual_return_%": 14.64,
+        "annual_volatility_%": 16.08,
+        "weights": {
+            "NVDA": 9.96,
+            "GOOG": -8.5,
+            "AMZN": 16.69,
+            "AAPL": -15.0,
+            "MSFT": 33.29,
+            "SPOT": 34.41,
+            "TSLA": 35.1,
+            "JPM": -4.48,
+            "GS": 5.14,
+            "LMT": -6.62
+        }
+    },
+    {
+        "date": "2025-09-22",
+        "annual_return_%": 15.15,
+        "annual_volatility_%": 16.07,
+        "weights": {
+            "NVDA": 9.73,
+            "GOOG": -8.44,
+            "AMZN": 16.7,
+            "AAPL": -15.06,
+            "MSFT": 33.43,
+            "SPOT": 34.38,
+            "TSLA": 35.24,
+            "JPM": -4.48,
+            "GS": 5.12,
+            "LMT": -6.61
+        }
+    },
+    {
+        "date": "2025-09-23",
+        "annual_return_%": 15.08,
+        "annual_volatility_%": 16.07,
+        "weights": {
+            "NVDA": 9.83,
+            "GOOG": -8.37,
+            "AMZN": 16.56,
+            "AAPL": -14.82,
+            "MSFT": 33.1,
+            "SPOT": 34.29,
+            "TSLA": 35.21,
+            "JPM": -4.46,
+            "GS": 5.22,
+            "LMT": -6.56
+        }
+    },
+    {
+        "date": "2025-09-24",
+        "annual_return_%": 14.0,
+        "annual_volatility_%": 16.06,
+        "weights": {
+            "NVDA": 9.79,
+            "GOOG": -8.15,
+            "AMZN": 16.54,
+            "AAPL": -15.41,
+            "MSFT": 33.58,
+            "SPOT": 34.35,
+            "TSLA": 35.04,
+            "JPM": -4.49,
+            "GS": 5.26,
+            "LMT": -6.53
+        }
+    },
+    {
+        "date": "2025-09-25",
+        "annual_return_%": 14.23,
+        "annual_volatility_%": 16.06,
+        "weights": {
+            "NVDA": 9.82,
+            "GOOG": -8.21,
+            "AMZN": 16.59,
+            "AAPL": -15.35,
+            "MSFT": 33.56,
+            "SPOT": 34.31,
+            "TSLA": 35.08,
+            "JPM": -4.49,
+            "GS": 5.26,
+            "LMT": -6.56
+        }
+    },
+    {
+        "date": "2025-09-26",
+        "annual_return_%": 14.99,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 9.82,
+            "GOOG": -8.21,
+            "AMZN": 16.62,
+            "AAPL": -15.22,
+            "MSFT": 33.47,
+            "SPOT": 34.27,
+            "TSLA": 35.33,
+            "JPM": -4.64,
+            "GS": 5.17,
+            "LMT": -6.6
+        }
+    },
+    {
+        "date": "2025-09-29",
+        "annual_return_%": 15.07,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 9.82,
+            "GOOG": -8.21,
+            "AMZN": 16.63,
+            "AAPL": -15.2,
+            "MSFT": 33.46,
+            "SPOT": 34.26,
+            "TSLA": 35.32,
+            "JPM": -4.65,
+            "GS": 5.17,
+            "LMT": -6.6
+        }
+    },
+    {
+        "date": "2025-09-30",
+        "annual_return_%": 15.85,
+        "annual_volatility_%": 16.05,
+        "weights": {
+            "NVDA": 9.78,
+            "GOOG": -8.06,
+            "AMZN": 16.64,
+            "AAPL": -15.15,
+            "MSFT": 33.45,
+            "SPOT": 34.17,
+            "TSLA": 35.24,
+            "JPM": -4.78,
+            "GS": 5.32,
+            "LMT": -6.61
+        }
+    },
+    {
+        "date": "2025-10-01",
+        "annual_return_%": 15.37,
+        "annual_volatility_%": 16.06,
+        "weights": {
+            "NVDA": 9.79,
+            "GOOG": -8.07,
+            "AMZN": 16.68,
+            "AAPL": -15.2,
+            "MSFT": 33.37,
+            "SPOT": 34.21,
+            "TSLA": 35.27,
+            "JPM": -4.8,
+            "GS": 5.31,
+            "LMT": -6.56
+        }
+    },
+    {
+        "date": "2025-10-02",
+        "annual_return_%": 14.32,
+        "annual_volatility_%": 16.03,
+        "weights": {
+            "NVDA": 10.12,
+            "GOOG": -8.33,
+            "AMZN": 16.79,
+            "AAPL": -15.52,
+            "MSFT": 33.55,
+            "SPOT": 34.19,
+            "TSLA": 35.25,
+            "JPM": -4.77,
+            "GS": 5.3,
+            "LMT": -6.58
+        }
+    },
+    {
+        "date": "2025-10-03",
+        "annual_return_%": 14.68,
+        "annual_volatility_%": 16.04,
+        "weights": {
+            "NVDA": 10.02,
+            "GOOG": -8.13,
+            "AMZN": 16.82,
+            "AAPL": -15.68,
+            "MSFT": 33.51,
+            "SPOT": 34.25,
+            "TSLA": 35.06,
+            "JPM": -4.78,
+            "GS": 5.47,
+            "LMT": -6.54
+        }
+    },
+    {
+        "date": "2025-10-06",
+        "annual_return_%": 16.38,
+        "annual_volatility_%": 16.08,
+        "weights": {
+            "NVDA": 10.38,
+            "GOOG": -8.04,
+            "AMZN": 16.68,
+            "AAPL": -16.06,
+            "MSFT": 34.09,
+            "SPOT": 34.11,
+            "TSLA": 34.52,
+            "JPM": -4.56,
+            "GS": 5.57,
+            "LMT": -6.68
+        }
+    },
+    {
+        "date": "2025-10-07",
+        "annual_return_%": 15.72,
+        "annual_volatility_%": 16.09,
+        "weights": {
+            "NVDA": 10.46,
+            "GOOG": -7.86,
+            "AMZN": 16.55,
+            "AAPL": -16.15,
+            "MSFT": 34.17,
+            "SPOT": 34.11,
+            "TSLA": 34.41,
+            "JPM": -4.53,
+            "GS": 5.59,
+            "LMT": -6.75
+        }
+    },
+    {
+        "date": "2025-10-08",
+        "annual_return_%": 14.93,
+        "annual_volatility_%": 16.09,
+        "weights": {
+            "NVDA": 10.45,
+            "GOOG": -7.59,
+            "AMZN": 16.43,
+            "AAPL": -16.56,
+            "MSFT": 34.6,
+            "SPOT": 34.11,
+            "TSLA": 34.16,
+            "JPM": -4.43,
+            "GS": 5.53,
+            "LMT": -6.7
+        }
+    },
+    {
+        "date": "2025-10-09",
+        "annual_return_%": 14.92,
+        "annual_volatility_%": 16.09,
+        "weights": {
+            "NVDA": 10.3,
+            "GOOG": -6.89,
+            "AMZN": 16.33,
+            "AAPL": -16.71,
+            "MSFT": 34.62,
+            "SPOT": 33.91,
+            "TSLA": 34.13,
+            "JPM": -4.64,
+            "GS": 5.59,
+            "LMT": -6.65
+        }
+    },
+    {
+        "date": "2025-10-10",
+        "annual_return_%": 13.67,
+        "annual_volatility_%": 16.11,
+        "weights": {
+            "NVDA": 10.29,
+            "GOOG": -7.36,
+            "AMZN": 16.44,
+            "AAPL": -16.69,
+            "MSFT": 34.6,
+            "SPOT": 33.98,
+            "TSLA": 34.26,
+            "JPM": -4.66,
+            "GS": 5.83,
+            "LMT": -6.69
+        }
+    },
+    {
+        "date": "2025-10-13",
+        "annual_return_%": 13.89,
+        "annual_volatility_%": 16.11,
+        "weights": {
+            "NVDA": 10.37,
+            "GOOG": -7.33,
+            "AMZN": 16.29,
+            "AAPL": -16.71,
+            "MSFT": 34.54,
+            "SPOT": 34.01,
+            "TSLA": 34.39,
+            "JPM": -4.7,
+            "GS": 5.86,
+            "LMT": -6.73
+        }
+    },
+    {
+        "date": "2025-10-14",
+        "annual_return_%": 14.72,
+        "annual_volatility_%": 16.1,
+        "weights": {
+            "NVDA": 10.35,
+            "GOOG": -7.43,
+            "AMZN": 16.26,
+            "AAPL": -16.63,
+            "MSFT": 34.53,
+            "SPOT": 34.05,
+            "TSLA": 34.47,
+            "JPM": -4.73,
+            "GS": 5.82,
+            "LMT": -6.69
+        }
+    },
+    {
+        "date": "2025-10-15",
+        "annual_return_%": 12.83,
+        "annual_volatility_%": 15.97,
+        "weights": {
+            "NVDA": 9.92,
+            "GOOG": -7.04,
+            "AMZN": 16.4,
+            "AAPL": -16.91,
+            "MSFT": 36.55,
+            "SPOT": 33.78,
+            "TSLA": 33.7,
+            "JPM": -4.62,
+            "GS": 5.56,
+            "LMT": -7.34
+        }
+    },
+    {
+        "date": "2025-10-16",
+        "annual_return_%": 11.09,
+        "annual_volatility_%": 16.01,
+        "weights": {
+            "NVDA": 10.01,
+            "GOOG": -7.19,
+            "AMZN": 16.58,
+            "AAPL": -16.36,
+            "MSFT": 35.58,
+            "SPOT": 33.89,
+            "TSLA": 33.86,
+            "JPM": -4.45,
+            "GS": 5.47,
+            "LMT": -7.42
+        }
+    },
+    {
+        "date": "2025-10-17",
+        "annual_return_%": 11.44,
+        "annual_volatility_%": 16.02,
+        "weights": {
+            "NVDA": 9.89,
+            "GOOG": -7.06,
+            "AMZN": 16.58,
+            "AAPL": -16.17,
+            "MSFT": 35.54,
+            "SPOT": 33.86,
+            "TSLA": 33.88,
+            "JPM": -4.52,
+            "GS": 5.45,
+            "LMT": -7.45
+        }
+    },
+    {
+        "date": "2025-10-20",
+        "annual_return_%": 13.37,
+        "annual_volatility_%": 16.1,
+        "weights": {
+            "NVDA": 9.26,
+            "GOOG": -7.14,
+            "AMZN": 16.71,
+            "AAPL": -16.25,
+            "MSFT": 35.62,
+            "SPOT": 33.74,
+            "TSLA": 34.38,
+            "JPM": -4.41,
+            "GS": 5.53,
+            "LMT": -7.44
+        }
+    },
+    {
+        "date": "2025-10-21",
+        "annual_return_%": 11.81,
+        "annual_volatility_%": 16.2,
+        "weights": {
+            "NVDA": 9.38,
+            "GOOG": -5.97,
+            "AMZN": 16.06,
+            "AAPL": -15.7,
+            "MSFT": 34.6,
+            "SPOT": 33.37,
+            "TSLA": 34.73,
+            "JPM": -4.79,
+            "GS": 5.81,
+            "LMT": -7.51
+        }
+    },
+    {
+        "date": "2025-10-22",
+        "annual_return_%": 11.11,
+        "annual_volatility_%": 16.19,
+        "weights": {
+            "NVDA": 9.47,
+            "GOOG": -5.96,
+            "AMZN": 16.02,
+            "AAPL": -15.91,
+            "MSFT": 34.72,
+            "SPOT": 33.36,
+            "TSLA": 34.66,
+            "JPM": -4.77,
+            "GS": 5.92,
+            "LMT": -7.52
+        }
+    },
+    {
+        "date": "2025-10-23",
+        "annual_return_%": 10.66,
+        "annual_volatility_%": 16.19,
+        "weights": {
+            "NVDA": 9.48,
+            "GOOG": -5.91,
+            "AMZN": 16.01,
+            "AAPL": -15.97,
+            "MSFT": 34.71,
+            "SPOT": 33.4,
+            "TSLA": 34.58,
+            "JPM": -4.7,
+            "GS": 5.91,
+            "LMT": -7.51
+        }
+    },
+    {
+        "date": "2025-10-24",
+        "annual_return_%": 11.75,
+        "annual_volatility_%": 16.16,
+        "weights": {
+            "NVDA": 9.55,
+            "GOOG": -5.77,
+            "AMZN": 15.83,
+            "AAPL": -16.15,
+            "MSFT": 34.45,
+            "SPOT": 34.21,
+            "TSLA": 33.8,
+            "JPM": -4.5,
+            "GS": 5.95,
+            "LMT": -7.37
+        }
+    },
+    {
+        "date": "2025-10-27",
+        "annual_return_%": 13.66,
+        "annual_volatility_%": 16.19,
+        "weights": {
+            "NVDA": 9.54,
+            "GOOG": -5.32,
+            "AMZN": 15.47,
+            "AAPL": -15.93,
+            "MSFT": 34.19,
+            "SPOT": 34.38,
+            "TSLA": 33.63,
+            "JPM": -4.5,
+            "GS": 5.97,
+            "LMT": -7.43
+        }
+    },
+    {
+        "date": "2025-10-28",
+        "annual_return_%": 15.55,
+        "annual_volatility_%": 16.01,
+        "weights": {
+            "NVDA": 10.12,
+            "GOOG": -5.5,
+            "AMZN": 16.22,
+            "AAPL": -15.5,
+            "MSFT": 34.13,
+            "SPOT": 34.26,
+            "TSLA": 33.31,
+            "JPM": -4.18,
+            "GS": 6.23,
+            "LMT": -9.09
+        }
+    },
+    {
+        "date": "2025-10-29",
+        "annual_return_%": 16.0,
+        "annual_volatility_%": 16.02,
+        "weights": {
+            "NVDA": 10.12,
+            "GOOG": -5.49,
+            "AMZN": 16.08,
+            "AAPL": -15.2,
+            "MSFT": 33.93,
+            "SPOT": 34.27,
+            "TSLA": 33.47,
+            "JPM": -4.29,
+            "GS": 6.19,
+            "LMT": -9.08
+        }
+    },
+    {
+        "date": "2025-10-30",
+        "annual_return_%": 16.45,
+        "annual_volatility_%": 16.03,
+        "weights": {
+            "NVDA": 9.97,
+            "GOOG": -5.18,
+            "AMZN": 15.72,
+            "AAPL": -15.25,
+            "MSFT": 33.7,
+            "SPOT": 34.22,
+            "TSLA": 33.91,
+            "JPM": -4.34,
+            "GS": 6.21,
+            "LMT": -8.96
+        }
+    },
+    {
+        "date": "2025-10-31",
+        "annual_return_%": 15.42,
+        "annual_volatility_%": 16.06,
+        "weights": {
+            "NVDA": 9.65,
+            "GOOG": -3.32,
+            "AMZN": 15.36,
+            "AAPL": -15.85,
+            "MSFT": 34.09,
+            "SPOT": 34.41,
+            "TSLA": 32.83,
+            "JPM": -4.43,
+            "GS": 6.11,
+            "LMT": -8.85
+        }
+    },
+    {
+        "date": "2025-11-03",
+        "annual_return_%": 13.92,
+        "annual_volatility_%": 16.08,
+        "weights": {
+            "NVDA": 9.25,
+            "GOOG": -2.62,
+            "AMZN": 15.63,
+            "AAPL": -16.12,
+            "MSFT": 34.17,
+            "SPOT": 34.38,
+            "TSLA": 32.57,
+            "JPM": -4.43,
+            "GS": 5.99,
+            "LMT": -8.83
+        }
+    },
+    {
+        "date": "2025-11-04",
+        "annual_return_%": 15.85,
+        "annual_volatility_%": 15.91,
+        "weights": {
+            "NVDA": 8.86,
+            "GOOG": -2.73,
+            "AMZN": 15.2,
+            "AAPL": -16.11,
+            "MSFT": 33.45,
+            "SPOT": 33.66,
+            "TSLA": 35.18,
+            "JPM": -4.57,
+            "GS": 5.84,
+            "LMT": -8.79
+        }
+    },
+    {
+        "date": "2025-11-05",
+        "annual_return_%": 14.94,
+        "annual_volatility_%": 15.95,
+        "weights": {
+            "NVDA": 8.84,
+            "GOOG": -2.67,
+            "AMZN": 15.63,
+            "AAPL": -16.36,
+            "MSFT": 33.97,
+            "SPOT": 33.39,
+            "TSLA": 34.84,
+            "JPM": -4.74,
+            "GS": 5.77,
+            "LMT": -8.68
+        }
+    },
+    {
+        "date": "2025-11-06",
+        "annual_return_%": 15.53,
+        "annual_volatility_%": 15.94,
+        "weights": {
+            "NVDA": 8.8,
+            "GOOG": -2.69,
+            "AMZN": 15.72,
+            "AAPL": -16.34,
+            "MSFT": 34.12,
+            "SPOT": 33.32,
+            "TSLA": 34.75,
+            "JPM": -4.84,
+            "GS": 5.83,
+            "LMT": -8.67
+        }
+    },
+    {
+        "date": "2025-11-07",
+        "annual_return_%": 14.83,
+        "annual_volatility_%": 15.96,
+        "weights": {
+            "NVDA": 8.84,
+            "GOOG": -2.55,
+            "AMZN": 15.55,
+            "AAPL": -16.51,
+            "MSFT": 34.45,
+            "SPOT": 33.14,
+            "TSLA": 34.84,
+            "JPM": -4.84,
+            "GS": 5.84,
+            "LMT": -8.77
+        }
+    },
+    {
+        "date": "2025-11-10",
+        "annual_return_%": 13.88,
+        "annual_volatility_%": 15.8,
+        "weights": {
+            "NVDA": 6.49,
+            "GOOG": -2.76,
+            "AMZN": 15.41,
+            "AAPL": -13.86,
+            "MSFT": 36.91,
+            "SPOT": 32.22,
+            "TSLA": 33.78,
+            "JPM": -5.32,
+            "GS": 5.32,
+            "LMT": -8.19
+        }
+    },
+    {
+        "date": "2025-11-11",
+        "annual_return_%": 15.37,
+        "annual_volatility_%": 15.8,
+        "weights": {
+            "NVDA": 6.04,
+            "GOOG": -2.81,
+            "AMZN": 15.28,
+            "AAPL": -14.51,
+            "MSFT": 38.72,
+            "SPOT": 32.02,
+            "TSLA": 33.46,
+            "JPM": -5.15,
+            "GS": 5.12,
+            "LMT": -8.16
+        }
+    },
+    {
+        "date": "2025-11-12",
+        "weights": {
+            "NVDA": 6.29,
+            "GOOG": -2.62,
+            "AMZN": 15.39,
+            "AAPL": -15.1,
+            "MSFT": 39.02,
+            "SPOT": 31.8,
+            "TSLA": 33.61,
+            "JPM": -5.02,
+            "GS": 5.08,
+            "LMT": -8.44
+        }
+    }
+]
