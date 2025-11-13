@@ -1,8 +1,8 @@
-# ⭐ ASTRA: An Automated Daily Trading Pipeline
+# An Automated Daily Trading Pipeline
 
 ### **Overview**
 
-In this project, we build a prototype of **ASTRA** (Automated Sentiment-driven Trading and Risk Allocation). It is an **end-to-end automated trading system** that combines machine learning models with Markowitz portfolio theory. Each day after the market closes, our system retrieves market data(OHLCV) and company-related market news. We then generate technical indicators from the market data, compute sentiment scores from the news, and use these features as inputs to pre-trained ML model to predict next-day price movements. In addition, we compute the optimal portfolio weights using Markowitz's theory. We then record the predicted directions and weights as JSON files, which are sent to our TradingView front-end for visualization and performance monitoring. The workflow is illustrated in the diagram below:
+In this project, we build an **end-to-end automated trading system** that combines machine learning models with Markowitz portfolio theory. Each day after the market closes, our system retrieves market data(OHLCV) and company-related market news. We then generate technical indicators from the market data, compute sentiment scores from the news, and use these features as inputs to pre-trained ML model to predict next-day price movements. In addition, we compute the optimal portfolio weights using Markowitz's theory. We then record the predicted directions and weights as JSON files, which are sent to our TradingView front-end for visualization and performance monitoring. The workflow is illustrated in the diagram below:
 
 <img width="8926" height="6878" alt="flow" src="https://github.com/user-attachments/assets/db7c0f8f-896c-4cac-aa7f-173f9a54c2da" />
 
