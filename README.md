@@ -25,6 +25,10 @@ We compute the optimal weights for our portfolio using Markowitz's theory. For e
 
 <img width="1176" height="807" alt="The efficiency frontier" src="https://github.com/user-attachments/assets/de069d86-0916-4c91-b86f-5e26a46b4819" />
 
+The computed weights are stored in `weights.json`. 
+
 ## Monitoring the portfolio in TradingView
 
-We collect the predicted price movements in `directions.json` and the optimal portfolio weights in `weights.json` then send them to our TradingView account via a pre-configured webhook. On TradingView, we use PineScript to parse the data and visualize the portfolio returns over time. We also generate buy and sell signals based on the predicted directions.
+We send `directions.json` and `weights.json` our TradingView account via a pre-configured webhook. On TradingView, we use PineScript to parse the data and visualize the portfolio returns over time. We also generate buy and sell signals based on the predicted directions. 
+
+<img width="894" height="286" alt="Trading View" src="https://github.com/user-attachments/assets/67be7e01-b9e1-44ba-9591-a9808bb2a4c4" />
