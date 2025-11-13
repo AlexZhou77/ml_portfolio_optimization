@@ -24,3 +24,7 @@ Markowitz Portfolio Theory was introduced by Harry Markowitz in 1952. It is a ma
 We compute the optimal weights for our portfolio using Markowitz's theory. For each day, we use stock data from the past year (from this day last year to today) to compute the average return and volatility. We then use these statistics to compute the optimal portfolio weights that yield the highest Sharpe ratio. Here’s a plot of the efficiency frontier for our portfolio:
 
 <img width="1176" height="807" alt="The efficiency frontier" src="https://github.com/user-attachments/assets/de069d86-0916-4c91-b86f-5e26a46b4819" />
+
+## Monitoring the portfolio in TradingView
+
+We collect the predicted price movements in `directions.json` and the optimal portfolio weights in `weights.json` then send them to our TradingView account via a pre-configured webhook. On TradingView, we use PineScript to parse the data and visualize the portfolio returns over time. We also generate buy and sell signals based on the predicted directions.
